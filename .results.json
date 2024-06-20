@@ -1,0 +1,54 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 2,
+    "passes": 2,
+    "pending": 0,
+    "failures": 0,
+    "start": "2024-06-20T11:46:16.860Z",
+    "end": "2024-06-20T11:46:16.883Z",
+    "duration": 23
+  },
+  "tests": [
+    {
+      "title": "has a <h1> element",
+      "fullTitle": "index.html has a <h1> element",
+      "file": "/Users/brenda/phase-0-html-tag-lab/test/index_test.js",
+      "duration": 13,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the text \"Hello, World!\"",
+      "fullTitle": "index.html the <h1> element contains the text \"Hello, World!\"",
+      "file": "/Users/brenda/phase-0-html-tag-lab/test/index_test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "has a <h1> element",
+      "fullTitle": "index.html has a <h1> element",
+      "file": "/Users/brenda/phase-0-html-tag-lab/test/index_test.js",
+      "duration": 13,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    },
+    {
+      "title": "contains the text \"Hello, World!\"",
+      "fullTitle": "index.html the <h1> element contains the text \"Hello, World!\"",
+      "file": "/Users/brenda/phase-0-html-tag-lab/test/index_test.js",
+      "duration": 2,
+      "currentRetry": 0,
+      "speed": "fast",
+      "err": {}
+    }
+  ]
+}
